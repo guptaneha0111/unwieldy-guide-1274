@@ -14,15 +14,13 @@ function Navbar() {
     >
       <Link to="/">
         <Box>
-          <Heading as="h4" fontFamily="cursive" size="lg" color="blue" fontWeight="bold" >
-            fiverr.
-          </Heading>
+         
         </Box>
       </Link>
       <Spacer />
       <HStack>
         <Link to="/login">
-          <Text fontSize="lg" fontWeight="bolder" >LOG IN</Text>
+          <Text fontSize="lg" fontWeight="bolder">LOG IN</Text>
         </Link>
         <Link to="/signup" >
           <Text fontSize="lg" fontWeight="bolder" >SIGN UP</Text>
