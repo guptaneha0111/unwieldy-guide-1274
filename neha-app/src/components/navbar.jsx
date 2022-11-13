@@ -14,7 +14,9 @@ function Navbar() {
     >
       <Link to="/">
         <Box>
-         
+        <Heading as='h1' size='2xl' noOfLines={1} margin="1.5rem">
+    fiverr.
+  </Heading>
         </Box>
       </Link>
       <Spacer />
