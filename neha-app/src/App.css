@@ -35,4 +35,37 @@
   to {
     transform: rotate(360deg);
   }
+
 }
+
+.homeimg{
+  width: 50%;
+
+}
+.bgdiv{
+  background-color: rgb(31, 68, 31);
+}
+.maindiv123{
+  margin-top: 40px;
+}
+.imgdiv{
+  display: flex;
+flex-direction: row;
+gap: 10px;
+
+}
+.img123{
+  background-color: rgb(21, 21, 59);
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+.img123 img{
+  padding: 1rem;
+}
+.lastimg{
+  margin-top: 40px;
+}
+/* .imgdiv img{
+  padding: 0.5rem;
+} */
