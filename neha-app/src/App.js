@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './Components/Navbar';
+import Navbar from './Components/navbar';
 import Allroutes from './Components/Allroutes';
 import Navbar1 from './Components/Navbar1';
 
